@@ -1,8 +1,6 @@
 package com.example.final_weather_app.repository
 
-import com.example.final_weather_app.api.ApiService
-import com.example.final_weather_app.model.Weather
-import retrofit2.Response
+
 
 //import javax.inject.Inject
 
